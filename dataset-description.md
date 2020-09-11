@@ -1,0 +1,1 @@
+This release contains information on all the latest political polls and polling averages from FiveThirtyEight, including Presidential Primary Polls, Senate Polls, House Polls, and more. For a full list of the latest poll information this dataset contains, please check the included Read Me.
