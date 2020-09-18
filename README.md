@@ -5,7 +5,7 @@
 The Latest Polls and Polling Averages | FiveThirtyEight
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-zl2ot23x27t3q](https://aws.amazon.com/marketplace/pp/prodview-zl2ot23x27t3q).
 
 ## Main Overview
 
